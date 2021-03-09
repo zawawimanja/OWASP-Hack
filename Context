@@ -1,0 +1,5 @@
+
+
+set of URLs together.
+
+The context created in the ZAP will attack the specified one and ignore the rest, to avoid too much data.
