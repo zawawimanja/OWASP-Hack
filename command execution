@@ -1,0 +1,6 @@
+
+
+
+
+Many web applications call operating system processes via the command line. 
+If your application calls out to the OS, you need to be sure command strings are securely constructed.
