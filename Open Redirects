@@ -1,0 +1,6 @@
+
+
+redirect url to untrusted source and lead to phishing attack.
+
+
+change or adding some query string in the url. Then encode it to disguise the user.
